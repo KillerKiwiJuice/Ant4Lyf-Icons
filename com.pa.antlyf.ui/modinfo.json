@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "context": "client",
+  "identifier": "com.pa.antlyf.ui",
+  "display_name": "Ant4Lyf Strategic Icons",
+  "build": "76557",
+  "date": "2014/01/01",
+  "description": "Some fresh icons for the Ant4Lyf mod.",
+  "category": [
+        "in-game",
+        "client-mod",
+    "Strategic-icons"
+    ],
+  "author": "KillerKiwiJuice",
+  "version": "1.0",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/rel-ant4lyf-mod.66937/",
+  "icon": "http://i.imgur.com/wvlSSgK.png",
+  "priority": 100,
+  "dependencies": [
+        "com.pa.killerkiwijuice.antlyf"
+  ]  
+}

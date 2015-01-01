@@ -1,0 +1,12 @@
+    {
+      "topics": {
+        "name": "Dox4Lyf",
+        "fab fac": "Built by the vehicle factory and advanced vehicle factory, they can build all normal structures.",
+        "advice": "T2 is very strong compared to T1. The Experiemental Uber Dox is built by advanced combat fabs.",
+		"d4l summary": "Dox4Lyf is a game mod that makes everything revolve around Dox. T1 Dox are the only offensive unit build-able from the start, until T2 is acquired. There are Dox shellers, shield-like vanguards, and giant dox from the advanced factory. The advanced combat fabricator builds experimental dox. There are two nukes.",
+		"dox": "The first offensive unit build-able. Has increased speed.",
+		"borv": "A shield like vangaurd that deals low damage via flamethrower, but high damage with a self descruction mechanism. Has increased health.",
+		"giant dox": "With high powered lasers, this giant dox will easily handle large groups of T1 dox. It has a stomp-weapon and is best used in groups of 2 or more.",
+		"experiemental uber dox": "This experiemental unit will end games for you and your opponent. Costing high above all other units, this bulldozer will wreck anything in it's path with a laser and long range flamethrower to deal with high density dox groups. It also has a Uber Cannon and will explode like a mini nuke when it dies, dealing damage to enemies."
+	  }
+    }
