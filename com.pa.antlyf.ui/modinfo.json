@@ -3,8 +3,8 @@
   "context": "client",
   "identifier": "com.pa.antlyf.ui",
   "display_name": "Ant4Lyf Strategic Icons",
-  "build": "76557",
-  "date": "2014/01/01",
+  "build": "79600",
+  "date": "2015/03/30",
   "description": "Some fresh icons for the Ant4Lyf mod.",
   "category": [
         "in-game",
@@ -12,7 +12,7 @@
     "Strategic-icons"
     ],
   "author": "KillerKiwiJuice",
-  "version": "1.1",
+  "version": "3.0",
   "signature": "not yet implemented",
   "forum": "https://forums.uberent.com/threads/rel-ant4lyf-mod.66937/",
   "icon": "http://i.imgur.com/wvlSSgK.png",
