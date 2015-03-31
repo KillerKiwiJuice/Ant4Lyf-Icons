@@ -51,6 +51,7 @@ $(document).ready(function () {
             'air_scout',
             'tank_explosive',
             'tank_heavy_laserX',
+            'tank_destroyer',
             'tank_experimental',
             'bot_artillery_adv',
             'bot_artillery',
