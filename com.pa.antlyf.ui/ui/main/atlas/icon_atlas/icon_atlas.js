@@ -49,10 +49,9 @@ $(document).ready(function () {
             'unit_air_generic_adv',
             'unit_air_generic',
             'air_scout',
-            'tank_explosive',
-            'tank_heavy_laserX',
-            'tank_destroyer',
-            'tank_experimental',
+            'assault_bot_t3',
+            'assault_bot_adv',
+            'assault_bot',
             'bot_artillery_adv',
             'bot_artillery',
             'fabrication_bot_adv',
@@ -69,8 +68,9 @@ $(document).ready(function () {
             'fabrication_sub',
             'nuclear_sub',
             'sea_mine',
-            'tank_laser_adv',
+            'tank_heavy_laserX',
             'tank_light_laser',
+            'tank_destroyer',
             'tank_heavy_mortar',
             'fabrication_vehicle_adv',
             'fabrication_vehicle',
@@ -109,14 +109,13 @@ $(document).ready(function () {
             'bot_grenadier',
             'bot_sniper',
             'bot_tactical_missile',
-            'bot_bomb',
+            'tank_explosive',
             'land_mine',
             'orbital_factory',
             'transport',
             'control_module',
             'control_point',
-            'mining_platform',
-            'unit_cannon'
+            'mining_platform'
         ]);
 
         self.sendIconList = function () {
